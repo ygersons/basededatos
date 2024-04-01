@@ -52,7 +52,7 @@ INSERT INTO n_cliente VALUES ('203', 'New Delhi Sports', '91-11903338','11368 Ch
 'New Delhi', NULL, 'India', NULL,'BUENO', '11', '4', NULL);
 INSERT INTO n_cliente VALUES ('204', 'Ladysport', '1-206-104-0111','281 Queen Street',
 'Seattle', 'Washington', 'US', NULL,'EXCELENTE', '11', '1', NULL);
-INSERT INTO n_cliente VALUES ('205', 'Kim''s Sporting BUENOs', '852-3693888','15 Henessey Road',
+INSERT INTO n_cliente VALUES ('205', 'Kims Sporting BUENOs', '852-3693888','15 Henessey Road',
 'Hong Kong', NULL, NULL, NULL,'EXCELENTE', '11', '4', NULL);
 INSERT INTO n_cliente VALUES ('206', 'Sportique', '33-93425722253','172 Rue de Place',
 'Cannes', NULL, 'France', NULL,'EXCELENTE', '13', '5', NULL);
